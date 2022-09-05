@@ -15,11 +15,10 @@ const incrementarCantidad = (valor) => {
     if (valor <= itemStock) {
         setCantidad(valor);
     }
-    setCantidad(valor)
 }
 
 const agregarProductos = () => {
-    if(itemStock > 0){
+    if(cantidad <= itemStock){
         setItemStock(itemStock - cantidad);
         setItemAdd(itemAdd + cantidad);
     }
