@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Desafio-4-React-Alioto/static/css/main.073c9b0a.css",
+    "main.js": "/Desafio-4-React-Alioto/static/js/main.ea4fb471.js",
+    "index.html": "/Desafio-4-React-Alioto/index.html",
+    "main.073c9b0a.css.map": "/Desafio-4-React-Alioto/static/css/main.073c9b0a.css.map",
+    "main.ea4fb471.js.map": "/Desafio-4-React-Alioto/static/js/main.ea4fb471.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ea4fb471.js"
+  ]
+}
